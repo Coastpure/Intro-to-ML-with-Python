@@ -1,2 +1,6 @@
 cache
 .ipynb_checkpoints
+tmp
+tmp.png
+*.pyc
+*.swp
