@@ -1,6 +1,14 @@
 cache
+data
+digits.model
+drawnDigits
 .ipynb_checkpoints
 tmp
 tmp.png
 *.pyc
 *.swp
+*.png
+*.pb
+*.dot
+*.index
+*.data
